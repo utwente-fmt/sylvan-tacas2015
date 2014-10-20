@@ -1,0 +1,93 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 24 CPUs
+dve2lts-sym, 0.001: Exploration order is par-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/production_cell.1.dve
+dve2lts-sym, 0.916: Regroup specification: gs
+dve2lts-sym, 0.916: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 0.917: Regroup macro Cols: cs,cn
+dve2lts-sym, 0.917: Regroup Column Sort
+dve2lts-sym, 0.917: Regroup Column Nub
+dve2lts-sym, 0.917: Regroup macro Rows: rs,rn
+dve2lts-sym, 0.917: Regroup Row Sort
+dve2lts-sym, 0.917: Regroup Row Nub
+dve2lts-sym, 0.917: Regroup Column sWaps
+dve2lts-sym, 0.918: Regroup Row Sort
+dve2lts-sym, 0.918: Regrouping: 31->28 groups
+dve2lts-sym, 0.918: state vector length is 19; there are 28 groups
+dve2lts-sym, 0.919: Creating a multi-core ListDD domain.
+dve2lts-sym, 1.229: got initial state
+dve2lts-sym, 1.229: level 0 is finished
+dve2lts-sym, 1.293: level 1 is finished
+dve2lts-sym, 1.330: level 2 is finished
+dve2lts-sym, 1.393: level 3 is finished
+dve2lts-sym, 1.504: level 4 is finished
+dve2lts-sym, 1.635: level 5 is finished
+dve2lts-sym, 1.791: level 6 is finished
+dve2lts-sym, 1.915: level 7 is finished
+dve2lts-sym, 2.024: level 8 is finished
+dve2lts-sym, 2.135: level 9 is finished
+dve2lts-sym, 2.227: level 10 is finished
+dve2lts-sym, 2.312: level 11 is finished
+dve2lts-sym, 2.383: level 12 is finished
+dve2lts-sym, 2.445: level 13 is finished
+dve2lts-sym, 2.512: level 14 is finished
+dve2lts-sym, 2.591: level 15 is finished
+dve2lts-sym, 2.662: level 16 is finished
+dve2lts-sym, 2.710: level 17 is finished
+dve2lts-sym, 2.745: level 18 is finished
+dve2lts-sym, 2.770: level 19 is finished
+dve2lts-sym, 2.789: level 20 is finished
+dve2lts-sym, 2.799: level 21 is finished
+dve2lts-sym, 2.806: level 22 is finished
+dve2lts-sym, 2.809: level 23 is finished
+dve2lts-sym, 2.812: level 24 is finished
+dve2lts-sym, 2.815: level 25 is finished
+dve2lts-sym, 2.817: level 26 is finished
+dve2lts-sym, 2.819: level 27 is finished
+dve2lts-sym, 2.821: level 28 is finished
+dve2lts-sym, 2.822: level 29 is finished
+dve2lts-sym, 2.824: level 30 is finished
+dve2lts-sym, 2.826: level 31 is finished
+dve2lts-sym, 2.828: level 32 is finished
+dve2lts-sym, 2.830: level 33 is finished
+dve2lts-sym, 2.832: level 34 is finished
+dve2lts-sym, 2.834: level 35 is finished
+dve2lts-sym, 2.835: level 36 is finished
+dve2lts-sym, 2.837: level 37 is finished
+dve2lts-sym, 2.839: level 38 is finished
+dve2lts-sym, 2.841: level 39 is finished
+dve2lts-sym, 2.843: level 40 is finished
+dve2lts-sym, 2.845: level 41 is finished
+dve2lts-sym, 2.847: level 42 is finished
+dve2lts-sym, 2.849: level 43 is finished
+dve2lts-sym, 2.851: level 44 is finished
+dve2lts-sym, 2.853: level 45 is finished
+dve2lts-sym, 2.854: level 46 is finished
+dve2lts-sym, 2.856: level 47 is finished
+dve2lts-sym, 2.858: level 48 is finished
+dve2lts-sym, 2.860: level 49 is finished
+dve2lts-sym, 2.861: level 50 is finished
+dve2lts-sym, 2.863: level 51 is finished
+dve2lts-sym, 2.865: level 52 is finished
+dve2lts-sym, 2.866: level 53 is finished
+dve2lts-sym, 2.868: level 54 is finished
+dve2lts-sym, 2.869: level 55 is finished
+dve2lts-sym, 2.870: level 56 is finished
+dve2lts-sym, 2.872: level 57 is finished
+dve2lts-sym, 2.873: level 58 is finished
+dve2lts-sym, 2.875: level 59 is finished
+dve2lts-sym, 2.876: level 60 is finished
+dve2lts-sym, 2.877: level 61 is finished
+dve2lts-sym, 2.878: level 62 is finished
+dve2lts-sym, 2.879: level 63 is finished
+dve2lts-sym, 2.879: level 64 is finished
+dve2lts-sym, 2.880: Exploration took 1820 group checks and 1820 next state calls
+dve2lts-sym, 2.880: reachability took 1.650 real 18.150 user 21.360 sys
+dve2lts-sym, 2.880: counting visited states...
+dve2lts-sym, 2.881: counting took 0.000 real 0.010 user 0.010 sys
+dve2lts-sym, 2.881: state space has 14586 (~1.46e+04) states, 1468 BDD nodes

@@ -1,0 +1,160 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.001: Exploration order is par-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/telephony.8.dve
+dve2lts-sym, 4.131: Regroup specification: gs
+dve2lts-sym, 4.131: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 4.131: Regroup macro Cols: cs,cn
+dve2lts-sym, 4.131: Regroup Column Sort
+dve2lts-sym, 4.132: Regroup Column Nub
+dve2lts-sym, 4.132: Regroup macro Rows: rs,rn
+dve2lts-sym, 4.132: Regroup Row Sort
+dve2lts-sym, 4.132: Regroup Row Nub
+dve2lts-sym, 4.132: Regroup Column sWaps
+dve2lts-sym, 4.141: Regroup Row Sort
+dve2lts-sym, 4.141: Regrouping: 132->80 groups
+dve2lts-sym, 4.141: state vector length is 28; there are 80 groups
+dve2lts-sym, 4.141: Creating a Sylvan domain.
+dve2lts-sym, 13.642: got initial state
+dve2lts-sym, 13.657: level 0 is finished
+dve2lts-sym, 13.999: reorder request ignored
+dve2lts-sym, 13.999: level 1 is finished
+dve2lts-sym, 14.385: reorder request ignored
+dve2lts-sym, 14.385: level 2 is finished
+dve2lts-sym, 14.542: reorder request ignored
+dve2lts-sym, 14.542: level 3 is finished
+dve2lts-sym, 14.606: reorder request ignored
+dve2lts-sym, 14.606: level 4 is finished
+dve2lts-sym, 14.674: reorder request ignored
+dve2lts-sym, 14.674: level 5 is finished
+dve2lts-sym, 14.775: reorder request ignored
+dve2lts-sym, 14.775: level 6 is finished
+dve2lts-sym, 14.894: reorder request ignored
+dve2lts-sym, 14.894: level 7 is finished
+dve2lts-sym, 15.143: reorder request ignored
+dve2lts-sym, 15.143: level 8 is finished
+dve2lts-sym, 15.530: reorder request ignored
+dve2lts-sym, 15.530: level 9 is finished
+dve2lts-sym, 15.932: reorder request ignored
+dve2lts-sym, 15.932: level 10 is finished
+dve2lts-sym, 16.404: reorder request ignored
+dve2lts-sym, 16.404: level 11 is finished
+dve2lts-sym, 16.954: reorder request ignored
+dve2lts-sym, 16.954: level 12 is finished
+dve2lts-sym, 18.071: reorder request ignored
+dve2lts-sym, 18.071: level 13 is finished
+dve2lts-sym, 19.167: reorder request ignored
+dve2lts-sym, 19.167: level 14 is finished
+dve2lts-sym, 20.399: reorder request ignored
+dve2lts-sym, 20.399: level 15 is finished
+dve2lts-sym, 21.343: reorder request ignored
+dve2lts-sym, 21.343: level 16 is finished
+dve2lts-sym, 23.552: reorder request ignored
+dve2lts-sym, 23.552: level 17 is finished
+dve2lts-sym, 26.177: reorder request ignored
+dve2lts-sym, 26.177: level 18 is finished
+dve2lts-sym, 28.171: reorder request ignored
+dve2lts-sym, 28.171: level 19 is finished
+dve2lts-sym, 29.938: reorder request ignored
+dve2lts-sym, 29.938: level 20 is finished
+dve2lts-sym, 32.585: reorder request ignored
+dve2lts-sym, 32.585: level 21 is finished
+dve2lts-sym, 37.091: reorder request ignored
+dve2lts-sym, 37.091: level 22 is finished
+dve2lts-sym, 40.671: reorder request ignored
+dve2lts-sym, 40.671: level 23 is finished
+dve2lts-sym, 44.186: reorder request ignored
+dve2lts-sym, 44.186: level 24 is finished
+dve2lts-sym, 48.167: reorder request ignored
+dve2lts-sym, 48.167: level 25 is finished
+dve2lts-sym, 54.017: reorder request ignored
+dve2lts-sym, 54.017: level 26 is finished
+dve2lts-sym, 59.227: reorder request ignored
+dve2lts-sym, 59.227: level 27 is finished
+dve2lts-sym, 64.824: reorder request ignored
+dve2lts-sym, 64.824: level 28 is finished
+dve2lts-sym, 70.854: reorder request ignored
+dve2lts-sym, 70.854: level 29 is finished
+dve2lts-sym, 78.698: reorder request ignored
+dve2lts-sym, 78.698: level 30 is finished
+dve2lts-sym, 86.301: reorder request ignored
+dve2lts-sym, 86.301: level 31 is finished
+dve2lts-sym, 95.435: reorder request ignored
+dve2lts-sym, 95.435: level 32 is finished
+*** segmentation fault ***
+
+Please send information on how to reproduce this problem to: 
+         ltsmin-support@cs.utwente.nl
+along with all output preceding this message.
+In addition, include the following information:
+Package: ltsmin 2.0
+Stack trace:
+  0: dve2lts-sym() [0x41d4ba]
+  1: dve2lts-sym() [0x41d536]
+  2: /lib/x86_64-linux-gnu/libpthread.so.0(+0x10340) [0x7f1558ca3340]
+  3: dve2lts-sym() [0x4930d7]
+  4: dve2lts-sym() [0x48818a]
+  5: dve2lts-sym() [0x4883a3]
+  6: dve2lts-sym() [0x48a897]
+  7: dve2lts-sym() [0x48ae91]
+  8: dve2lts-sym() [0x48aca6]
+  9: dve2lts-sym() [0x48aca6]
+ 10: dve2lts-sym() [0x48aca6]
+ 11: dve2lts-sym() [0x48aca6]
+ 12: dve2lts-sym() [0x48aca6]
+ 13: dve2lts-sym() [0x48aca6]
+ 14: dve2lts-sym() [0x48aca6]
+ 15: dve2lts-sym() [0x48aca6]
+ 16: dve2lts-sym() [0x48aca6]
+ 17: dve2lts-sym() [0x48aca6]
+ 18: dve2lts-sym() [0x48aca6]
+ 19: dve2lts-sym() [0x48aca6]
+ 20: dve2lts-sym() [0x48aca6]
+ 21: dve2lts-sym() [0x48aca6]
+ 22: dve2lts-sym() [0x48aca6]
+ 23: dve2lts-sym() [0x48ae91]
+ 24: dve2lts-sym() [0x48ae91]
+ 25: dve2lts-sym() [0x48aca6]
+ 26: dve2lts-sym() [0x48aca6]
+ 27: dve2lts-sym() [0x48aca6]
+ 28: dve2lts-sym() [0x48aca6]
+ 29: dve2lts-sym() [0x48aca6]
+ 30: dve2lts-sym() [0x48adf4]
+ 31: dve2lts-sym() [0x48aca6]
+ 32: dve2lts-sym() [0x48aca6]
+ 33: dve2lts-sym() [0x48aca6]
+ 34: dve2lts-sym() [0x48aca6]
+ 35: dve2lts-sym() [0x48aca6]
+ 36: dve2lts-sym() [0x48aca6]
+ 37: dve2lts-sym() [0x48aca6]
+ 38: dve2lts-sym() [0x48aca6]
+ 39: dve2lts-sym() [0x48aca6]
+ 40: dve2lts-sym() [0x48aca6]
+ 41: dve2lts-sym() [0x48adf4]
+ 42: dve2lts-sym() [0x48adf4]
+ 43: dve2lts-sym() [0x48aca6]
+ 44: dve2lts-sym() [0x48aca6]
+ 45: dve2lts-sym() [0x48aca6]
+ 46: dve2lts-sym() [0x48aca6]
+ 47: dve2lts-sym() [0x48aca6]
+ 48: dve2lts-sym() [0x48aca6]
+ 49: dve2lts-sym() [0x48aca6]
+ 50: dve2lts-sym() [0x48aca6]
+ 51: dve2lts-sym() [0x48aca6]
+ 52: dve2lts-sym() [0x48aca6]
+ 53: dve2lts-sym() [0x48aca6]
+ 54: dve2lts-sym() [0x48aca6]
+ 55: dve2lts-sym() [0x48adf4]
+ 56: dve2lts-sym() [0x48ae91]
+ 57: dve2lts-sym() [0x48aca6]
+ 58: dve2lts-sym() [0x48aca6]
+ 59: dve2lts-sym() [0x48adf4]
+ 60: dve2lts-sym() [0x48aca6]
+ 61: dve2lts-sym() [0x48aca6]
+ 62: dve2lts-sym() [0x48adf4]
+ 63: dve2lts-sym() [0x48aca6]

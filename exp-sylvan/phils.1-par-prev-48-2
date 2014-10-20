@@ -1,0 +1,48 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.000: Exploration order is par-prev
+dve2lts-sym, 0.000: Saturation strategy is none
+dve2lts-sym, 0.000: Guided search strategy is unguided
+dve2lts-sym, 0.000: Attractor strategy is default
+dve2lts-sym, 0.000: Precompiled divine module initialized
+dve2lts-sym, 0.000: Main process: 0.
+dve2lts-sym, 0.000: opening models/phils.1.dve
+dve2lts-sym, 0.418: Regroup specification: gs
+dve2lts-sym, 0.418: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 0.418: Regroup macro Cols: cs,cn
+dve2lts-sym, 0.418: Regroup Column Sort
+dve2lts-sym, 0.418: Regroup Column Nub
+dve2lts-sym, 0.418: Regroup macro Rows: rs,rn
+dve2lts-sym, 0.418: Regroup Row Sort
+dve2lts-sym, 0.418: Regroup Row Nub
+dve2lts-sym, 0.418: Regroup Column sWaps
+dve2lts-sym, 0.418: Regroup Row Sort
+dve2lts-sym, 0.418: Regrouping: 16->16 groups
+dve2lts-sym, 0.419: state vector length is 8; there are 16 groups
+dve2lts-sym, 0.419: Creating a Sylvan domain.
+dve2lts-sym, 2.909: got initial state
+dve2lts-sym, 2.910: level 0 is finished
+dve2lts-sym, 3.668: reorder request ignored
+dve2lts-sym, 3.668: level 1 is finished
+dve2lts-sym, 4.502: reorder request ignored
+dve2lts-sym, 4.502: level 2 is finished
+dve2lts-sym, 5.053: reorder request ignored
+dve2lts-sym, 5.053: level 3 is finished
+dve2lts-sym, 5.429: reorder request ignored
+dve2lts-sym, 5.429: level 4 is finished
+dve2lts-sym, 5.672: reorder request ignored
+dve2lts-sym, 5.672: level 5 is finished
+dve2lts-sym, 5.858: reorder request ignored
+dve2lts-sym, 5.858: level 6 is finished
+dve2lts-sym, 5.959: reorder request ignored
+dve2lts-sym, 5.959: level 7 is finished
+dve2lts-sym, 6.014: reorder request ignored
+dve2lts-sym, 6.014: level 8 is finished
+dve2lts-sym, 6.076: reorder request ignored
+dve2lts-sym, 6.076: level 9 is finished
+dve2lts-sym, 6.105: reorder request ignored
+dve2lts-sym, 6.105: Exploration took 160 group checks and 160 next state calls
+dve2lts-sym, 6.105: reachability took 3.200 real 135.830 user 16.940 sys
+dve2lts-sym, 6.105: counting visited states...
+dve2lts-sym, 6.105: counting took 0.000 real 0.010 user 0.000 sys
+dve2lts-sym, 6.105: state space has 80 (~8.00e+01) states, 486 BDD nodes

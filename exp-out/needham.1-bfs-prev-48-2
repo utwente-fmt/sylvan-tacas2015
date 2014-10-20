@@ -1,0 +1,44 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/needham.1.dve
+dve2lts-sym, 1.406: Regroup specification: gs
+dve2lts-sym, 1.406: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 1.406: Regroup macro Cols: cs,cn
+dve2lts-sym, 1.406: Regroup Column Sort
+dve2lts-sym, 1.406: Regroup Column Nub
+dve2lts-sym, 1.406: Regroup macro Rows: rs,rn
+dve2lts-sym, 1.406: Regroup Row Sort
+dve2lts-sym, 1.406: Regroup Row Nub
+dve2lts-sym, 1.406: Regroup Column sWaps
+dve2lts-sym, 1.407: Regroup Row Sort
+dve2lts-sym, 1.407: Regrouping: 55->24 groups
+dve2lts-sym, 1.407: state vector length is 14; there are 24 groups
+dve2lts-sym, 1.407: Creating a multi-core ListDD domain.
+dve2lts-sym, 1.613: got initial state
+dve2lts-sym, 1.614: level 0 is finished
+dve2lts-sym, 2.010: level 1 is finished
+dve2lts-sym, 2.585: level 2 is finished
+dve2lts-sym, 3.297: level 3 is finished
+dve2lts-sym, 4.097: level 4 is finished
+dve2lts-sym, 4.866: level 5 is finished
+dve2lts-sym, 5.475: level 6 is finished
+dve2lts-sym, 5.920: level 7 is finished
+dve2lts-sym, 6.197: level 8 is finished
+dve2lts-sym, 6.436: level 9 is finished
+dve2lts-sym, 6.637: level 10 is finished
+dve2lts-sym, 6.780: level 11 is finished
+dve2lts-sym, 6.923: level 12 is finished
+dve2lts-sym, 7.050: level 13 is finished
+dve2lts-sym, 7.128: level 14 is finished
+dve2lts-sym, 7.172: level 15 is finished
+dve2lts-sym, 7.201: Exploration took 384 group checks and 384 next state calls
+dve2lts-sym, 7.201: reachability took 5.580 real 251.700 user 16.330 sys
+dve2lts-sym, 7.201: counting visited states...
+dve2lts-sym, 7.202: counting took 0.000 real 0.010 user 0.000 sys
+dve2lts-sym, 7.202: state space has 497 (~4.97e+02) states, 494 BDD nodes

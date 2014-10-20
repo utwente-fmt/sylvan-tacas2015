@@ -1,0 +1,44 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 1 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/peg_solitaire.5.dve
+dve2lts-sym, 5.645: Regroup specification: gs
+dve2lts-sym, 5.645: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 5.645: Regroup macro Cols: cs,cn
+dve2lts-sym, 5.645: Regroup Column Sort
+dve2lts-sym, 5.646: Regroup Column Nub
+dve2lts-sym, 5.646: Regroup macro Rows: rs,rn
+dve2lts-sym, 5.646: Regroup Row Sort
+dve2lts-sym, 5.646: Regroup Row Nub
+dve2lts-sym, 5.647: Regroup Column sWaps
+dve2lts-sym, 5.647: Regroup Row Sort
+dve2lts-sym, 5.647: Regrouping: 140->1 groups
+dve2lts-sym, 5.647: state vector length is 51; there are 1 groups
+dve2lts-sym, 5.647: Creating a multi-core ListDD domain.
+dve2lts-sym, 5.804: got initial state
+dve2lts-sym, 5.804: level 0 is finished
+dve2lts-sym, 6.863: level 1 is finished
+dve2lts-sym, 12.438: level 2 is finished
+dve2lts-sym, 20.193: level 3 is finished
+dve2lts-sym, 25.626: level 4 is finished
+dve2lts-sym, 26.284: level 5 is finished
+dve2lts-sym, 27.552: level 6 is finished
+dve2lts-sym, 29.915: level 7 is finished
+dve2lts-sym, 33.111: level 8 is finished
+dve2lts-sym, 36.204: level 9 is finished
+dve2lts-sym, 38.356: level 10 is finished
+dve2lts-sym, 39.461: level 11 is finished
+dve2lts-sym, 39.817: level 12 is finished
+dve2lts-sym, 39.890: level 13 is finished
+dve2lts-sym, 39.896: level 14 is finished
+dve2lts-sym, 39.897: level 15 is finished
+dve2lts-sym, 39.897: Exploration took 16 group checks and 16 next state calls
+dve2lts-sym, 39.897: reachability took 34.100 real 14.310 user 19.750 sys
+dve2lts-sym, 39.897: counting visited states...
+dve2lts-sym, 39.935: counting took 0.030 real 0.040 user 0.010 sys
+dve2lts-sym, 39.935: state space has 84191 (~8.42e+04) states, 38108 BDD nodes

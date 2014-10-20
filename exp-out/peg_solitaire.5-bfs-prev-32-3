@@ -1,0 +1,44 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 32 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/peg_solitaire.5.dve
+dve2lts-sym, 5.730: Regroup specification: gs
+dve2lts-sym, 5.730: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 5.730: Regroup macro Cols: cs,cn
+dve2lts-sym, 5.730: Regroup Column Sort
+dve2lts-sym, 5.731: Regroup Column Nub
+dve2lts-sym, 5.732: Regroup macro Rows: rs,rn
+dve2lts-sym, 5.732: Regroup Row Sort
+dve2lts-sym, 5.732: Regroup Row Nub
+dve2lts-sym, 5.733: Regroup Column sWaps
+dve2lts-sym, 5.733: Regroup Row Sort
+dve2lts-sym, 5.733: Regrouping: 140->1 groups
+dve2lts-sym, 5.733: state vector length is 51; there are 1 groups
+dve2lts-sym, 5.733: Creating a multi-core ListDD domain.
+dve2lts-sym, 5.894: got initial state
+dve2lts-sym, 5.894: level 0 is finished
+dve2lts-sym, 6.578: level 1 is finished
+dve2lts-sym, 7.627: level 2 is finished
+dve2lts-sym, 8.436: level 3 is finished
+dve2lts-sym, 8.746: level 4 is finished
+dve2lts-sym, 8.804: level 5 is finished
+dve2lts-sym, 8.935: level 6 is finished
+dve2lts-sym, 9.175: level 7 is finished
+dve2lts-sym, 9.496: level 8 is finished
+dve2lts-sym, 9.801: level 9 is finished
+dve2lts-sym, 10.003: level 10 is finished
+dve2lts-sym, 10.095: level 11 is finished
+dve2lts-sym, 10.125: level 12 is finished
+dve2lts-sym, 10.133: level 13 is finished
+dve2lts-sym, 10.135: level 14 is finished
+dve2lts-sym, 10.136: level 15 is finished
+dve2lts-sym, 10.136: Exploration took 16 group checks and 16 next state calls
+dve2lts-sym, 10.136: reachability took 4.240 real 113.170 user 22.450 sys
+dve2lts-sym, 10.136: counting visited states...
+dve2lts-sym, 10.142: counting took 0.010 real 0.170 user 0.000 sys
+dve2lts-sym, 10.142: state space has 84191 (~8.42e+04) states, 38108 BDD nodes

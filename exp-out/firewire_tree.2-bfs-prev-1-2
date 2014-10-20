@@ -1,0 +1,80 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 1 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/firewire_tree.2.dve
+dve2lts-sym, 7.209: Regroup specification: gs
+dve2lts-sym, 7.209: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 7.209: Regroup macro Cols: cs,cn
+dve2lts-sym, 7.209: Regroup Column Sort
+dve2lts-sym, 7.211: Regroup Column Nub
+dve2lts-sym, 7.212: Regroup macro Rows: rs,rn
+dve2lts-sym, 7.212: Regroup Row Sort
+dve2lts-sym, 7.215: Regroup Row Nub
+dve2lts-sym, 7.219: Regroup Column sWaps
+dve2lts-sym, 7.514: Regroup Row Sort
+dve2lts-sym, 7.515: Regrouping: 248->156 groups
+dve2lts-sym, 7.515: state vector length is 83; there are 156 groups
+dve2lts-sym, 7.515: Creating a multi-core ListDD domain.
+dve2lts-sym, 11.074: got initial state
+dve2lts-sym, 11.075: level 0 is finished
+dve2lts-sym, 17.191: level 1 is finished
+dve2lts-sym, 20.890: level 2 is finished
+dve2lts-sym, 23.235: level 3 is finished
+dve2lts-sym, 24.683: level 4 is finished
+dve2lts-sym, 25.862: level 5 is finished
+dve2lts-sym, 26.561: level 6 is finished
+dve2lts-sym, 26.922: level 7 is finished
+dve2lts-sym, 27.201: level 8 is finished
+dve2lts-sym, 27.332: level 9 is finished
+dve2lts-sym, 27.398: level 10 is finished
+dve2lts-sym, 27.424: level 11 is finished
+dve2lts-sym, 27.447: level 12 is finished
+dve2lts-sym, 27.464: level 13 is finished
+dve2lts-sym, 27.479: level 14 is finished
+dve2lts-sym, 27.494: level 15 is finished
+dve2lts-sym, 27.511: level 16 is finished
+dve2lts-sym, 27.527: level 17 is finished
+dve2lts-sym, 27.549: level 18 is finished
+dve2lts-sym, 27.572: level 19 is finished
+dve2lts-sym, 27.594: level 20 is finished
+dve2lts-sym, 27.617: level 21 is finished
+dve2lts-sym, 27.642: level 22 is finished
+dve2lts-sym, 27.670: level 23 is finished
+dve2lts-sym, 27.700: level 24 is finished
+dve2lts-sym, 27.731: level 25 is finished
+dve2lts-sym, 27.762: level 26 is finished
+dve2lts-sym, 27.792: level 27 is finished
+dve2lts-sym, 27.821: level 28 is finished
+dve2lts-sym, 27.852: level 29 is finished
+dve2lts-sym, 27.881: level 30 is finished
+dve2lts-sym, 27.908: level 31 is finished
+dve2lts-sym, 27.938: level 32 is finished
+dve2lts-sym, 27.964: level 33 is finished
+dve2lts-sym, 27.988: level 34 is finished
+dve2lts-sym, 28.009: level 35 is finished
+dve2lts-sym, 28.030: level 36 is finished
+dve2lts-sym, 28.049: level 37 is finished
+dve2lts-sym, 28.067: level 38 is finished
+dve2lts-sym, 28.084: level 39 is finished
+dve2lts-sym, 28.101: level 40 is finished
+dve2lts-sym, 28.114: level 41 is finished
+dve2lts-sym, 28.135: level 42 is finished
+dve2lts-sym, 28.152: level 43 is finished
+dve2lts-sym, 28.167: level 44 is finished
+dve2lts-sym, 28.178: level 45 is finished
+dve2lts-sym, 28.189: level 46 is finished
+dve2lts-sym, 28.204: level 47 is finished
+dve2lts-sym, 28.211: level 48 is finished
+dve2lts-sym, 28.218: level 49 is finished
+dve2lts-sym, 28.225: level 50 is finished
+dve2lts-sym, 28.232: level 51 is finished
+dve2lts-sym, 28.234: Exploration took 8112 group checks and 8112 next state calls
+dve2lts-sym, 28.234: reachability took 17.160 real 0.940 user 16.200 sys
+dve2lts-sym, 28.234: counting visited states...
+dve2lts-sym, 28.235: counting took 0.000 real 0.000 user 0.000 sys
+dve2lts-sym, 28.235: state space has 2441 (~2.44e+03) states, 1621 BDD nodes

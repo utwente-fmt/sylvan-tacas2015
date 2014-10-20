@@ -1,0 +1,56 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/schedule_world.1.dve
+dve2lts-sym, 0.926: Regroup specification: gs
+dve2lts-sym, 0.927: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 0.927: Regroup macro Cols: cs,cn
+dve2lts-sym, 0.927: Regroup Column Sort
+dve2lts-sym, 0.927: Regroup Column Nub
+dve2lts-sym, 0.927: Regroup macro Rows: rs,rn
+dve2lts-sym, 0.927: Regroup Row Sort
+dve2lts-sym, 0.927: Regroup Row Nub
+dve2lts-sym, 0.927: Regroup Column sWaps
+dve2lts-sym, 0.930: Regroup Row Sort
+dve2lts-sym, 0.930: Regrouping: 26->18 groups
+dve2lts-sym, 0.930: state vector length is 22; there are 18 groups
+dve2lts-sym, 0.930: Creating a Sylvan domain.
+dve2lts-sym, 9.156: got initial state
+dve2lts-sym, 9.159: level 0 is finished
+dve2lts-sym, 14.763: reorder request ignored
+dve2lts-sym, 14.763: level 1 is finished
+dve2lts-sym, 17.519: reorder request ignored
+dve2lts-sym, 17.519: level 2 is finished
+dve2lts-sym, 17.628: reorder request ignored
+dve2lts-sym, 17.628: level 3 is finished
+dve2lts-sym, 17.719: reorder request ignored
+dve2lts-sym, 17.719: level 4 is finished
+dve2lts-sym, 17.883: reorder request ignored
+dve2lts-sym, 17.883: level 5 is finished
+dve2lts-sym, 18.077: reorder request ignored
+dve2lts-sym, 18.077: level 6 is finished
+dve2lts-sym, 18.291: reorder request ignored
+dve2lts-sym, 18.291: level 7 is finished
+dve2lts-sym, 18.550: reorder request ignored
+dve2lts-sym, 18.550: level 8 is finished
+dve2lts-sym, 18.754: reorder request ignored
+dve2lts-sym, 18.754: level 9 is finished
+dve2lts-sym, 18.913: reorder request ignored
+dve2lts-sym, 18.913: level 10 is finished
+dve2lts-sym, 19.056: reorder request ignored
+dve2lts-sym, 19.056: level 11 is finished
+dve2lts-sym, 19.116: reorder request ignored
+dve2lts-sym, 19.116: level 12 is finished
+dve2lts-sym, 19.147: reorder request ignored
+dve2lts-sym, 19.147: level 13 is finished
+dve2lts-sym, 19.161: reorder request ignored
+dve2lts-sym, 19.161: Exploration took 252 group checks and 252 next state calls
+dve2lts-sym, 19.161: reachability took 10.000 real 469.890 user 10.060 sys
+dve2lts-sym, 19.161: counting visited states...
+dve2lts-sym, 19.164: counting took 0.010 real 0.100 user 0.000 sys
+dve2lts-sym, 19.164: state space has 23061 (~2.31e+04) states, 10559 BDD nodes

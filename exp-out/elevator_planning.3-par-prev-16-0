@@ -1,0 +1,46 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 16 CPUs
+dve2lts-sym, 0.001: Exploration order is par-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/elevator_planning.3.dve
+dve2lts-sym, 0.720: Regroup specification: gs
+dve2lts-sym, 0.720: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 0.720: Regroup macro Cols: cs,cn
+dve2lts-sym, 0.720: Regroup Column Sort
+dve2lts-sym, 0.720: Regroup Column Nub
+dve2lts-sym, 0.720: Regroup macro Rows: rs,rn
+dve2lts-sym, 0.720: Regroup Row Sort
+dve2lts-sym, 0.720: Regroup Row Nub
+dve2lts-sym, 0.720: Regroup Column sWaps
+dve2lts-sym, 0.721: Regroup Row Sort
+dve2lts-sym, 0.721: Regrouping: 17->6 groups
+dve2lts-sym, 0.721: state vector length is 23; there are 6 groups
+dve2lts-sym, 0.721: Creating a multi-core ListDD domain.
+dve2lts-sym, 0.866: got initial state
+dve2lts-sym, 0.866: level 0 is finished
+dve2lts-sym, 0.953: level 1 is finished
+dve2lts-sym, 1.071: level 2 is finished
+dve2lts-sym, 1.259: level 3 is finished
+dve2lts-sym, 1.608: level 4 is finished
+dve2lts-sym, 2.259: level 5 is finished
+dve2lts-sym, 2.838: level 6 is finished
+dve2lts-sym, 3.370: level 7 is finished
+dve2lts-sym, 3.718: level 8 is finished
+dve2lts-sym, 3.903: level 9 is finished
+dve2lts-sym, 3.971: level 10 is finished
+dve2lts-sym, 3.993: level 11 is finished
+dve2lts-sym, 4.027: level 12 is finished
+dve2lts-sym, 4.032: level 13 is finished
+dve2lts-sym, 4.035: level 14 is finished
+dve2lts-sym, 4.037: level 15 is finished
+dve2lts-sym, 4.039: level 16 is finished
+dve2lts-sym, 4.039: level 17 is finished
+dve2lts-sym, 4.040: Exploration took 108 group checks and 108 next state calls
+dve2lts-sym, 4.040: reachability took 3.170 real 29.970 user 20.290 sys
+dve2lts-sym, 4.040: counting visited states...
+dve2lts-sym, 4.041: counting took 0.000 real 0.020 user 0.000 sys
+dve2lts-sym, 4.041: state space has 52496 (~5.25e+04) states, 169 BDD nodes

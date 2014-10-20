@@ -1,0 +1,540 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/hanoi.1.dve
+dve2lts-sym, 0.482: Regroup specification: gs
+dve2lts-sym, 0.482: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 0.482: Regroup macro Cols: cs,cn
+dve2lts-sym, 0.482: Regroup Column Sort
+dve2lts-sym, 0.482: Regroup Column Nub
+dve2lts-sym, 0.482: Regroup macro Rows: rs,rn
+dve2lts-sym, 0.482: Regroup Row Sort
+dve2lts-sym, 0.482: Regroup Row Nub
+dve2lts-sym, 0.482: Regroup Column sWaps
+dve2lts-sym, 0.482: Regroup Row Sort
+dve2lts-sym, 0.482: Regrouping: 6->6 groups
+dve2lts-sym, 0.482: state vector length is 36; there are 6 groups
+dve2lts-sym, 0.482: Creating a Sylvan domain.
+dve2lts-sym, 9.458: got initial state
+dve2lts-sym, 9.460: level 0 is finished
+dve2lts-sym, 12.446: reorder request ignored
+dve2lts-sym, 12.446: level 1 is finished
+dve2lts-sym, 16.355: reorder request ignored
+dve2lts-sym, 16.355: level 2 is finished
+dve2lts-sym, 18.680: reorder request ignored
+dve2lts-sym, 18.680: level 3 is finished
+dve2lts-sym, 20.689: reorder request ignored
+dve2lts-sym, 20.689: level 4 is finished
+dve2lts-sym, 21.294: reorder request ignored
+dve2lts-sym, 21.294: level 5 is finished
+dve2lts-sym, 22.155: reorder request ignored
+dve2lts-sym, 22.155: level 6 is finished
+dve2lts-sym, 22.671: reorder request ignored
+dve2lts-sym, 22.671: level 7 is finished
+dve2lts-sym, 23.079: reorder request ignored
+dve2lts-sym, 23.079: level 8 is finished
+dve2lts-sym, 23.112: reorder request ignored
+dve2lts-sym, 23.112: level 9 is finished
+dve2lts-sym, 23.291: reorder request ignored
+dve2lts-sym, 23.291: level 10 is finished
+dve2lts-sym, 23.373: reorder request ignored
+dve2lts-sym, 23.373: level 11 is finished
+dve2lts-sym, 23.548: reorder request ignored
+dve2lts-sym, 23.548: level 12 is finished
+dve2lts-sym, 23.586: reorder request ignored
+dve2lts-sym, 23.586: level 13 is finished
+dve2lts-sym, 23.626: reorder request ignored
+dve2lts-sym, 23.626: level 14 is finished
+dve2lts-sym, 23.800: reorder request ignored
+dve2lts-sym, 23.800: level 15 is finished
+dve2lts-sym, 23.882: reorder request ignored
+dve2lts-sym, 23.882: level 16 is finished
+dve2lts-sym, 23.964: reorder request ignored
+dve2lts-sym, 23.964: level 17 is finished
+dve2lts-sym, 24.039: reorder request ignored
+dve2lts-sym, 24.039: level 18 is finished
+dve2lts-sym, 24.079: reorder request ignored
+dve2lts-sym, 24.079: level 19 is finished
+dve2lts-sym, 24.123: reorder request ignored
+dve2lts-sym, 24.123: level 20 is finished
+dve2lts-sym, 24.243: reorder request ignored
+dve2lts-sym, 24.243: level 21 is finished
+dve2lts-sym, 24.337: reorder request ignored
+dve2lts-sym, 24.337: level 22 is finished
+dve2lts-sym, 24.382: reorder request ignored
+dve2lts-sym, 24.383: level 23 is finished
+dve2lts-sym, 24.595: reorder request ignored
+dve2lts-sym, 24.595: level 24 is finished
+dve2lts-sym, 24.620: reorder request ignored
+dve2lts-sym, 24.620: level 25 is finished
+dve2lts-sym, 24.759: reorder request ignored
+dve2lts-sym, 24.759: level 26 is finished
+dve2lts-sym, 24.825: reorder request ignored
+dve2lts-sym, 24.825: level 27 is finished
+dve2lts-sym, 24.936: reorder request ignored
+dve2lts-sym, 24.937: level 28 is finished
+dve2lts-sym, 25.041: reorder request ignored
+dve2lts-sym, 25.041: level 29 is finished
+dve2lts-sym, 25.115: reorder request ignored
+dve2lts-sym, 25.115: level 30 is finished
+dve2lts-sym, 25.318: reorder request ignored
+dve2lts-sym, 25.318: level 31 is finished
+dve2lts-sym, 25.518: reorder request ignored
+dve2lts-sym, 25.518: level 32 is finished
+dve2lts-sym, 25.534: reorder request ignored
+dve2lts-sym, 25.534: level 33 is finished
+dve2lts-sym, 25.559: reorder request ignored
+dve2lts-sym, 25.559: level 34 is finished
+dve2lts-sym, 25.585: reorder request ignored
+dve2lts-sym, 25.585: level 35 is finished
+dve2lts-sym, 25.624: reorder request ignored
+dve2lts-sym, 25.624: level 36 is finished
+dve2lts-sym, 25.660: reorder request ignored
+dve2lts-sym, 25.660: level 37 is finished
+dve2lts-sym, 25.814: reorder request ignored
+dve2lts-sym, 25.814: level 38 is finished
+dve2lts-sym, 25.864: reorder request ignored
+dve2lts-sym, 25.864: level 39 is finished
+dve2lts-sym, 26.042: reorder request ignored
+dve2lts-sym, 26.042: level 40 is finished
+dve2lts-sym, 26.078: reorder request ignored
+dve2lts-sym, 26.078: level 41 is finished
+dve2lts-sym, 26.122: reorder request ignored
+dve2lts-sym, 26.122: level 42 is finished
+dve2lts-sym, 26.244: reorder request ignored
+dve2lts-sym, 26.244: level 43 is finished
+dve2lts-sym, 26.374: reorder request ignored
+dve2lts-sym, 26.374: level 44 is finished
+dve2lts-sym, 26.487: reorder request ignored
+dve2lts-sym, 26.487: level 45 is finished
+dve2lts-sym, 26.625: reorder request ignored
+dve2lts-sym, 26.625: level 46 is finished
+dve2lts-sym, 26.813: reorder request ignored
+dve2lts-sym, 26.813: level 47 is finished
+dve2lts-sym, 27.084: reorder request ignored
+dve2lts-sym, 27.084: level 48 is finished
+dve2lts-sym, 27.113: reorder request ignored
+dve2lts-sym, 27.113: level 49 is finished
+dve2lts-sym, 27.156: reorder request ignored
+dve2lts-sym, 27.156: level 50 is finished
+dve2lts-sym, 27.307: reorder request ignored
+dve2lts-sym, 27.307: level 51 is finished
+dve2lts-sym, 27.389: reorder request ignored
+dve2lts-sym, 27.389: level 52 is finished
+dve2lts-sym, 27.526: reorder request ignored
+dve2lts-sym, 27.526: level 53 is finished
+dve2lts-sym, 27.635: reorder request ignored
+dve2lts-sym, 27.635: level 54 is finished
+dve2lts-sym, 27.832: reorder request ignored
+dve2lts-sym, 27.832: level 55 is finished
+dve2lts-sym, 28.094: reorder request ignored
+dve2lts-sym, 28.094: level 56 is finished
+dve2lts-sym, 28.135: reorder request ignored
+dve2lts-sym, 28.135: level 57 is finished
+dve2lts-sym, 28.331: reorder request ignored
+dve2lts-sym, 28.331: level 58 is finished
+dve2lts-sym, 28.411: reorder request ignored
+dve2lts-sym, 28.411: level 59 is finished
+dve2lts-sym, 28.819: reorder request ignored
+dve2lts-sym, 28.819: level 60 is finished
+dve2lts-sym, 28.890: reorder request ignored
+dve2lts-sym, 28.890: level 61 is finished
+dve2lts-sym, 29.186: reorder request ignored
+dve2lts-sym, 29.186: level 62 is finished
+dve2lts-sym, 29.427: reorder request ignored
+dve2lts-sym, 29.427: level 63 is finished
+dve2lts-sym, 29.832: reorder request ignored
+dve2lts-sym, 29.832: level 64 is finished
+dve2lts-sym, 29.846: reorder request ignored
+dve2lts-sym, 29.846: level 65 is finished
+dve2lts-sym, 29.872: reorder request ignored
+dve2lts-sym, 29.872: level 66 is finished
+dve2lts-sym, 29.899: reorder request ignored
+dve2lts-sym, 29.899: level 67 is finished
+dve2lts-sym, 29.986: reorder request ignored
+dve2lts-sym, 29.986: level 68 is finished
+dve2lts-sym, 30.064: reorder request ignored
+dve2lts-sym, 30.064: level 69 is finished
+dve2lts-sym, 30.120: reorder request ignored
+dve2lts-sym, 30.120: level 70 is finished
+dve2lts-sym, 30.162: reorder request ignored
+dve2lts-sym, 30.162: level 71 is finished
+dve2lts-sym, 30.338: reorder request ignored
+dve2lts-sym, 30.339: level 72 is finished
+dve2lts-sym, 30.369: reorder request ignored
+dve2lts-sym, 30.369: level 73 is finished
+dve2lts-sym, 30.411: reorder request ignored
+dve2lts-sym, 30.411: level 74 is finished
+dve2lts-sym, 30.541: reorder request ignored
+dve2lts-sym, 30.541: level 75 is finished
+dve2lts-sym, 30.638: reorder request ignored
+dve2lts-sym, 30.639: level 76 is finished
+dve2lts-sym, 30.681: reorder request ignored
+dve2lts-sym, 30.681: level 77 is finished
+dve2lts-sym, 30.878: reorder request ignored
+dve2lts-sym, 30.878: level 78 is finished
+dve2lts-sym, 31.047: reorder request ignored
+dve2lts-sym, 31.047: level 79 is finished
+dve2lts-sym, 31.338: reorder request ignored
+dve2lts-sym, 31.338: level 80 is finished
+dve2lts-sym, 31.372: reorder request ignored
+dve2lts-sym, 31.372: level 81 is finished
+dve2lts-sym, 31.412: reorder request ignored
+dve2lts-sym, 31.412: level 82 is finished
+dve2lts-sym, 31.516: reorder request ignored
+dve2lts-sym, 31.516: level 83 is finished
+dve2lts-sym, 31.653: reorder request ignored
+dve2lts-sym, 31.653: level 84 is finished
+dve2lts-sym, 31.704: reorder request ignored
+dve2lts-sym, 31.704: level 85 is finished
+dve2lts-sym, 31.900: reorder request ignored
+dve2lts-sym, 31.900: level 86 is finished
+dve2lts-sym, 32.083: reorder request ignored
+dve2lts-sym, 32.083: level 87 is finished
+dve2lts-sym, 32.310: reorder request ignored
+dve2lts-sym, 32.310: level 88 is finished
+dve2lts-sym, 32.368: reorder request ignored
+dve2lts-sym, 32.368: level 89 is finished
+dve2lts-sym, 32.440: reorder request ignored
+dve2lts-sym, 32.440: level 90 is finished
+dve2lts-sym, 32.651: reorder request ignored
+dve2lts-sym, 32.651: level 91 is finished
+dve2lts-sym, 32.893: reorder request ignored
+dve2lts-sym, 32.893: level 92 is finished
+dve2lts-sym, 33.038: reorder request ignored
+dve2lts-sym, 33.038: level 93 is finished
+dve2lts-sym, 33.199: reorder request ignored
+dve2lts-sym, 33.199: level 94 is finished
+dve2lts-sym, 33.589: reorder request ignored
+dve2lts-sym, 33.589: level 95 is finished
+dve2lts-sym, 33.938: reorder request ignored
+dve2lts-sym, 33.938: level 96 is finished
+dve2lts-sym, 33.971: reorder request ignored
+dve2lts-sym, 33.971: level 97 is finished
+dve2lts-sym, 34.147: reorder request ignored
+dve2lts-sym, 34.147: level 98 is finished
+dve2lts-sym, 34.193: reorder request ignored
+dve2lts-sym, 34.193: level 99 is finished
+dve2lts-sym, 34.400: reorder request ignored
+dve2lts-sym, 34.400: level 100 is finished
+dve2lts-sym, 34.446: reorder request ignored
+dve2lts-sym, 34.446: level 101 is finished
+dve2lts-sym, 34.648: reorder request ignored
+dve2lts-sym, 34.648: level 102 is finished
+dve2lts-sym, 34.766: reorder request ignored
+dve2lts-sym, 34.766: level 103 is finished
+dve2lts-sym, 34.941: reorder request ignored
+dve2lts-sym, 34.941: level 104 is finished
+dve2lts-sym, 35.073: reorder request ignored
+dve2lts-sym, 35.073: level 105 is finished
+dve2lts-sym, 35.197: reorder request ignored
+dve2lts-sym, 35.197: level 106 is finished
+dve2lts-sym, 35.377: reorder request ignored
+dve2lts-sym, 35.377: level 107 is finished
+dve2lts-sym, 35.624: reorder request ignored
+dve2lts-sym, 35.624: level 108 is finished
+dve2lts-sym, 35.703: reorder request ignored
+dve2lts-sym, 35.703: level 109 is finished
+dve2lts-sym, 36.051: reorder request ignored
+dve2lts-sym, 36.051: level 110 is finished
+dve2lts-sym, 36.203: reorder request ignored
+dve2lts-sym, 36.203: level 111 is finished
+dve2lts-sym, 36.632: reorder request ignored
+dve2lts-sym, 36.632: level 112 is finished
+dve2lts-sym, 36.672: reorder request ignored
+dve2lts-sym, 36.672: level 113 is finished
+dve2lts-sym, 36.791: reorder request ignored
+dve2lts-sym, 36.791: level 114 is finished
+dve2lts-sym, 36.917: reorder request ignored
+dve2lts-sym, 36.917: level 115 is finished
+dve2lts-sym, 37.130: reorder request ignored
+dve2lts-sym, 37.130: level 116 is finished
+dve2lts-sym, 37.202: reorder request ignored
+dve2lts-sym, 37.202: level 117 is finished
+dve2lts-sym, 37.341: reorder request ignored
+dve2lts-sym, 37.341: level 118 is finished
+dve2lts-sym, 37.468: reorder request ignored
+dve2lts-sym, 37.468: level 119 is finished
+dve2lts-sym, 37.699: reorder request ignored
+dve2lts-sym, 37.699: level 120 is finished
+dve2lts-sym, 37.769: reorder request ignored
+dve2lts-sym, 37.769: level 121 is finished
+dve2lts-sym, 37.893: reorder request ignored
+dve2lts-sym, 37.893: level 122 is finished
+dve2lts-sym, 38.019: reorder request ignored
+dve2lts-sym, 38.019: level 123 is finished
+dve2lts-sym, 38.247: reorder request ignored
+dve2lts-sym, 38.247: level 124 is finished
+dve2lts-sym, 38.382: reorder request ignored
+dve2lts-sym, 38.382: level 125 is finished
+dve2lts-sym, 38.622: reorder request ignored
+dve2lts-sym, 38.622: level 126 is finished
+dve2lts-sym, 38.860: reorder request ignored
+dve2lts-sym, 38.860: level 127 is finished
+dve2lts-sym, 39.303: reorder request ignored
+dve2lts-sym, 39.303: level 128 is finished
+dve2lts-sym, 39.317: reorder request ignored
+dve2lts-sym, 39.317: level 129 is finished
+dve2lts-sym, 39.341: reorder request ignored
+dve2lts-sym, 39.341: level 130 is finished
+dve2lts-sym, 39.367: reorder request ignored
+dve2lts-sym, 39.367: level 131 is finished
+dve2lts-sym, 39.406: reorder request ignored
+dve2lts-sym, 39.406: level 132 is finished
+dve2lts-sym, 39.429: reorder request ignored
+dve2lts-sym, 39.429: level 133 is finished
+dve2lts-sym, 39.468: reorder request ignored
+dve2lts-sym, 39.468: level 134 is finished
+dve2lts-sym, 39.510: reorder request ignored
+dve2lts-sym, 39.510: level 135 is finished
+dve2lts-sym, 39.580: reorder request ignored
+dve2lts-sym, 39.580: level 136 is finished
+dve2lts-sym, 39.605: reorder request ignored
+dve2lts-sym, 39.605: level 137 is finished
+dve2lts-sym, 39.644: reorder request ignored
+dve2lts-sym, 39.644: level 138 is finished
+dve2lts-sym, 39.684: reorder request ignored
+dve2lts-sym, 39.684: level 139 is finished
+dve2lts-sym, 39.753: reorder request ignored
+dve2lts-sym, 39.753: level 140 is finished
+dve2lts-sym, 39.797: reorder request ignored
+dve2lts-sym, 39.797: level 141 is finished
+dve2lts-sym, 39.869: reorder request ignored
+dve2lts-sym, 39.869: level 142 is finished
+dve2lts-sym, 39.941: reorder request ignored
+dve2lts-sym, 39.941: level 143 is finished
+dve2lts-sym, 40.067: reorder request ignored
+dve2lts-sym, 40.067: level 144 is finished
+dve2lts-sym, 40.093: reorder request ignored
+dve2lts-sym, 40.093: level 145 is finished
+dve2lts-sym, 40.134: reorder request ignored
+dve2lts-sym, 40.134: level 146 is finished
+dve2lts-sym, 40.175: reorder request ignored
+dve2lts-sym, 40.175: level 147 is finished
+dve2lts-sym, 40.245: reorder request ignored
+dve2lts-sym, 40.245: level 148 is finished
+dve2lts-sym, 40.294: reorder request ignored
+dve2lts-sym, 40.294: level 149 is finished
+dve2lts-sym, 40.364: reorder request ignored
+dve2lts-sym, 40.364: level 150 is finished
+dve2lts-sym, 40.436: reorder request ignored
+dve2lts-sym, 40.436: level 151 is finished
+dve2lts-sym, 40.565: reorder request ignored
+dve2lts-sym, 40.565: level 152 is finished
+dve2lts-sym, 40.605: reorder request ignored
+dve2lts-sym, 40.605: level 153 is finished
+dve2lts-sym, 40.675: reorder request ignored
+dve2lts-sym, 40.675: level 154 is finished
+dve2lts-sym, 40.746: reorder request ignored
+dve2lts-sym, 40.746: level 155 is finished
+dve2lts-sym, 40.873: reorder request ignored
+dve2lts-sym, 40.873: level 156 is finished
+dve2lts-sym, 40.945: reorder request ignored
+dve2lts-sym, 40.945: level 157 is finished
+dve2lts-sym, 41.074: reorder request ignored
+dve2lts-sym, 41.074: level 158 is finished
+dve2lts-sym, 41.198: reorder request ignored
+dve2lts-sym, 41.198: level 159 is finished
+dve2lts-sym, 41.430: reorder request ignored
+dve2lts-sym, 41.430: level 160 is finished
+dve2lts-sym, 41.457: reorder request ignored
+dve2lts-sym, 41.457: level 161 is finished
+dve2lts-sym, 41.497: reorder request ignored
+dve2lts-sym, 41.497: level 162 is finished
+dve2lts-sym, 41.537: reorder request ignored
+dve2lts-sym, 41.537: level 163 is finished
+dve2lts-sym, 41.605: reorder request ignored
+dve2lts-sym, 41.605: level 164 is finished
+dve2lts-sym, 41.646: reorder request ignored
+dve2lts-sym, 41.646: level 165 is finished
+dve2lts-sym, 41.713: reorder request ignored
+dve2lts-sym, 41.713: level 166 is finished
+dve2lts-sym, 41.785: reorder request ignored
+dve2lts-sym, 41.785: level 167 is finished
+dve2lts-sym, 41.905: reorder request ignored
+dve2lts-sym, 41.905: level 168 is finished
+dve2lts-sym, 41.945: reorder request ignored
+dve2lts-sym, 41.945: level 169 is finished
+dve2lts-sym, 42.015: reorder request ignored
+dve2lts-sym, 42.016: level 170 is finished
+dve2lts-sym, 42.202: reorder request ignored
+dve2lts-sym, 42.202: level 171 is finished
+dve2lts-sym, 42.411: reorder request ignored
+dve2lts-sym, 42.411: level 172 is finished
+dve2lts-sym, 42.482: reorder request ignored
+dve2lts-sym, 42.482: level 173 is finished
+dve2lts-sym, 42.678: reorder request ignored
+dve2lts-sym, 42.678: level 174 is finished
+dve2lts-sym, 42.935: reorder request ignored
+dve2lts-sym, 42.935: level 175 is finished
+dve2lts-sym, 43.218: reorder request ignored
+dve2lts-sym, 43.218: level 176 is finished
+dve2lts-sym, 43.258: reorder request ignored
+dve2lts-sym, 43.259: level 177 is finished
+dve2lts-sym, 43.429: reorder request ignored
+dve2lts-sym, 43.429: level 178 is finished
+dve2lts-sym, 43.500: reorder request ignored
+dve2lts-sym, 43.500: level 179 is finished
+dve2lts-sym, 43.673: reorder request ignored
+dve2lts-sym, 43.673: level 180 is finished
+dve2lts-sym, 43.744: reorder request ignored
+dve2lts-sym, 43.744: level 181 is finished
+dve2lts-sym, 43.946: reorder request ignored
+dve2lts-sym, 43.946: level 182 is finished
+dve2lts-sym, 44.175: reorder request ignored
+dve2lts-sym, 44.175: level 183 is finished
+dve2lts-sym, 44.482: reorder request ignored
+dve2lts-sym, 44.482: level 184 is finished
+dve2lts-sym, 44.627: reorder request ignored
+dve2lts-sym, 44.627: level 185 is finished
+dve2lts-sym, 44.769: reorder request ignored
+dve2lts-sym, 44.769: level 186 is finished
+dve2lts-sym, 44.942: reorder request ignored
+dve2lts-sym, 44.942: level 187 is finished
+dve2lts-sym, 45.224: reorder request ignored
+dve2lts-sym, 45.224: level 188 is finished
+dve2lts-sym, 45.469: reorder request ignored
+dve2lts-sym, 45.469: level 189 is finished
+dve2lts-sym, 45.763: reorder request ignored
+dve2lts-sym, 45.763: level 190 is finished
+dve2lts-sym, 46.133: reorder request ignored
+dve2lts-sym, 46.133: level 191 is finished
+dve2lts-sym, 46.703: reorder request ignored
+dve2lts-sym, 46.703: level 192 is finished
+dve2lts-sym, 46.729: reorder request ignored
+dve2lts-sym, 46.729: level 193 is finished
+dve2lts-sym, 46.770: reorder request ignored
+dve2lts-sym, 46.770: level 194 is finished
+dve2lts-sym, 46.811: reorder request ignored
+dve2lts-sym, 46.811: level 195 is finished
+dve2lts-sym, 46.968: reorder request ignored
+dve2lts-sym, 46.968: level 196 is finished
+dve2lts-sym, 47.009: reorder request ignored
+dve2lts-sym, 47.009: level 197 is finished
+dve2lts-sym, 47.143: reorder request ignored
+dve2lts-sym, 47.143: level 198 is finished
+dve2lts-sym, 47.217: reorder request ignored
+dve2lts-sym, 47.217: level 199 is finished
+dve2lts-sym, 47.399: reorder request ignored
+dve2lts-sym, 47.400: level 200 is finished
+dve2lts-sym, 47.443: reorder request ignored
+dve2lts-sym, 47.443: level 201 is finished
+dve2lts-sym, 47.509: reorder request ignored
+dve2lts-sym, 47.509: level 202 is finished
+dve2lts-sym, 47.646: reorder request ignored
+dve2lts-sym, 47.646: level 203 is finished
+dve2lts-sym, 47.787: reorder request ignored
+dve2lts-sym, 47.787: level 204 is finished
+dve2lts-sym, 47.945: reorder request ignored
+dve2lts-sym, 47.945: level 205 is finished
+dve2lts-sym, 48.067: reorder request ignored
+dve2lts-sym, 48.067: level 206 is finished
+dve2lts-sym, 48.291: reorder request ignored
+dve2lts-sym, 48.291: level 207 is finished
+dve2lts-sym, 48.713: reorder request ignored
+dve2lts-sym, 48.713: level 208 is finished
+dve2lts-sym, 48.752: reorder request ignored
+dve2lts-sym, 48.752: level 209 is finished
+dve2lts-sym, 48.819: reorder request ignored
+dve2lts-sym, 48.819: level 210 is finished
+dve2lts-sym, 48.991: reorder request ignored
+dve2lts-sym, 48.991: level 211 is finished
+dve2lts-sym, 49.207: reorder request ignored
+dve2lts-sym, 49.207: level 212 is finished
+dve2lts-sym, 49.277: reorder request ignored
+dve2lts-sym, 49.277: level 213 is finished
+dve2lts-sym, 49.450: reorder request ignored
+dve2lts-sym, 49.450: level 214 is finished
+dve2lts-sym, 49.570: reorder request ignored
+dve2lts-sym, 49.570: level 215 is finished
+dve2lts-sym, 49.914: reorder request ignored
+dve2lts-sym, 49.914: level 216 is finished
+dve2lts-sym, 49.989: reorder request ignored
+dve2lts-sym, 49.989: level 217 is finished
+dve2lts-sym, 50.114: reorder request ignored
+dve2lts-sym, 50.114: level 218 is finished
+dve2lts-sym, 50.236: reorder request ignored
+dve2lts-sym, 50.236: level 219 is finished
+dve2lts-sym, 50.632: reorder request ignored
+dve2lts-sym, 50.632: level 220 is finished
+dve2lts-sym, 50.843: reorder request ignored
+dve2lts-sym, 50.843: level 221 is finished
+dve2lts-sym, 51.183: reorder request ignored
+dve2lts-sym, 51.183: level 222 is finished
+dve2lts-sym, 51.482: reorder request ignored
+dve2lts-sym, 51.482: level 223 is finished
+dve2lts-sym, 51.996: reorder request ignored
+dve2lts-sym, 51.996: level 224 is finished
+dve2lts-sym, 52.037: reorder request ignored
+dve2lts-sym, 52.037: level 225 is finished
+dve2lts-sym, 52.108: reorder request ignored
+dve2lts-sym, 52.108: level 226 is finished
+dve2lts-sym, 52.204: reorder request ignored
+dve2lts-sym, 52.204: level 227 is finished
+dve2lts-sym, 52.325: reorder request ignored
+dve2lts-sym, 52.325: level 228 is finished
+dve2lts-sym, 52.423: reorder request ignored
+dve2lts-sym, 52.423: level 229 is finished
+dve2lts-sym, 52.565: reorder request ignored
+dve2lts-sym, 52.565: level 230 is finished
+dve2lts-sym, 52.689: reorder request ignored
+dve2lts-sym, 52.689: level 231 is finished
+dve2lts-sym, 52.961: reorder request ignored
+dve2lts-sym, 52.961: level 232 is finished
+dve2lts-sym, 53.034: reorder request ignored
+dve2lts-sym, 53.034: level 233 is finished
+dve2lts-sym, 53.173: reorder request ignored
+dve2lts-sym, 53.173: level 234 is finished
+dve2lts-sym, 53.300: reorder request ignored
+dve2lts-sym, 53.300: level 235 is finished
+dve2lts-sym, 53.561: reorder request ignored
+dve2lts-sym, 53.561: level 236 is finished
+dve2lts-sym, 53.710: reorder request ignored
+dve2lts-sym, 53.710: level 237 is finished
+dve2lts-sym, 53.999: reorder request ignored
+dve2lts-sym, 53.999: level 238 is finished
+dve2lts-sym, 54.266: reorder request ignored
+dve2lts-sym, 54.266: level 239 is finished
+dve2lts-sym, 54.770: reorder request ignored
+dve2lts-sym, 54.770: level 240 is finished
+dve2lts-sym, 54.854: reorder request ignored
+dve2lts-sym, 54.854: level 241 is finished
+dve2lts-sym, 55.021: reorder request ignored
+dve2lts-sym, 55.021: level 242 is finished
+dve2lts-sym, 55.159: reorder request ignored
+dve2lts-sym, 55.159: level 243 is finished
+dve2lts-sym, 55.461: reorder request ignored
+dve2lts-sym, 55.461: level 244 is finished
+dve2lts-sym, 55.622: reorder request ignored
+dve2lts-sym, 55.622: level 245 is finished
+dve2lts-sym, 55.894: reorder request ignored
+dve2lts-sym, 55.894: level 246 is finished
+dve2lts-sym, 56.185: reorder request ignored
+dve2lts-sym, 56.185: level 247 is finished
+dve2lts-sym, 56.665: reorder request ignored
+dve2lts-sym, 56.665: level 248 is finished
+dve2lts-sym, 56.809: reorder request ignored
+dve2lts-sym, 56.809: level 249 is finished
+dve2lts-sym, 57.064: reorder request ignored
+dve2lts-sym, 57.064: level 250 is finished
+dve2lts-sym, 57.318: reorder request ignored
+dve2lts-sym, 57.318: level 251 is finished
+dve2lts-sym, 57.784: reorder request ignored
+dve2lts-sym, 57.784: level 252 is finished
+dve2lts-sym, 58.025: reorder request ignored
+dve2lts-sym, 58.025: level 253 is finished
+dve2lts-sym, 58.488: reorder request ignored
+dve2lts-sym, 58.488: level 254 is finished
+dve2lts-sym, 58.931: reorder request ignored
+dve2lts-sym, 58.931: level 255 is finished
+dve2lts-sym, 59.774: reorder request ignored
+dve2lts-sym, 59.774: Exploration took 1536 group checks and 1536 next state calls
+dve2lts-sym, 59.774: reachability took 50.320 real 2379.770 user 33.150 sys
+dve2lts-sym, 59.774: counting visited states...
+dve2lts-sym, 59.799: counting took 0.030 real 1.230 user 0.000 sys
+dve2lts-sym, 59.800: state space has 6561 (~6.56e+03) states, 205552 BDD nodes

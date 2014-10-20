@@ -1,0 +1,43 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 24 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/pouring.2.dve
+dve2lts-sym, 40.480: Regroup specification: gs
+dve2lts-sym, 40.480: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 40.480: Regroup macro Cols: cs,cn
+dve2lts-sym, 40.480: Regroup Column Sort
+dve2lts-sym, 40.480: Regroup Column Nub
+dve2lts-sym, 40.480: Regroup macro Rows: rs,rn
+dve2lts-sym, 40.480: Regroup Row Sort
+dve2lts-sym, 40.484: Regroup Row Nub
+dve2lts-sym, 40.541: Regroup Column sWaps
+dve2lts-sym, 40.542: Regroup Row Sort
+dve2lts-sym, 40.542: Regrouping: 1724->20 groups
+dve2lts-sym, 40.542: state vector length is 7; there are 20 groups
+dve2lts-sym, 40.542: Creating a multi-core ListDD domain.
+dve2lts-sym, 40.601: got initial state
+dve2lts-sym, 40.601: level 0 is finished
+dve2lts-sym, 40.827: level 1 is finished
+dve2lts-sym, 41.507: level 2 is finished
+dve2lts-sym, 43.233: level 3 is finished
+dve2lts-sym, 45.268: level 4 is finished
+dve2lts-sym, 46.460: level 5 is finished
+dve2lts-sym, 46.662: level 6 is finished
+dve2lts-sym, 46.687: level 7 is finished
+dve2lts-sym, 46.709: level 8 is finished
+dve2lts-sym, 46.734: level 9 is finished
+dve2lts-sym, 46.762: level 10 is finished
+dve2lts-sym, 46.787: level 11 is finished
+dve2lts-sym, 46.808: level 12 is finished
+dve2lts-sym, 46.821: level 13 is finished
+dve2lts-sym, 46.827: level 14 is finished
+dve2lts-sym, 46.829: Exploration took 300 group checks and 300 next state calls
+dve2lts-sym, 46.829: reachability took 6.230 real 133.100 user 16.270 sys
+dve2lts-sym, 46.829: counting visited states...
+dve2lts-sym, 46.830: counting took 0.000 real 0.000 user 0.000 sys
+dve2lts-sym, 46.830: state space has 51624 (~5.16e+04) states, 81 BDD nodes

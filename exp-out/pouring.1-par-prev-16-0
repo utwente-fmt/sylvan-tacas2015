@@ -1,0 +1,41 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 16 CPUs
+dve2lts-sym, 0.001: Exploration order is par-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/pouring.1.dve
+dve2lts-sym, 46.984: Regroup specification: gs
+dve2lts-sym, 46.984: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 46.984: Regroup macro Cols: cs,cn
+dve2lts-sym, 46.984: Regroup Column Sort
+dve2lts-sym, 46.984: Regroup Column Nub
+dve2lts-sym, 46.984: Regroup macro Rows: rs,rn
+dve2lts-sym, 46.984: Regroup Row Sort
+dve2lts-sym, 46.987: Regroup Row Nub
+dve2lts-sym, 47.067: Regroup Column sWaps
+dve2lts-sym, 47.067: Regroup Row Sort
+dve2lts-sym, 47.067: Regrouping: 2018->6 groups
+dve2lts-sym, 47.067: state vector length is 4; there are 6 groups
+dve2lts-sym, 47.067: Creating a multi-core ListDD domain.
+dve2lts-sym, 47.093: got initial state
+dve2lts-sym, 47.093: level 0 is finished
+dve2lts-sym, 47.125: level 1 is finished
+dve2lts-sym, 47.205: level 2 is finished
+dve2lts-sym, 47.396: level 3 is finished
+dve2lts-sym, 47.676: level 4 is finished
+dve2lts-sym, 48.082: level 5 is finished
+dve2lts-sym, 48.499: level 6 is finished
+dve2lts-sym, 48.874: level 7 is finished
+dve2lts-sym, 49.143: level 8 is finished
+dve2lts-sym, 49.330: level 9 is finished
+dve2lts-sym, 49.428: level 10 is finished
+dve2lts-sym, 49.479: level 11 is finished
+dve2lts-sym, 49.497: level 12 is finished
+dve2lts-sym, 49.501: Exploration took 78 group checks and 78 next state calls
+dve2lts-sym, 49.501: reachability took 2.410 real 23.230 user 15.250 sys
+dve2lts-sym, 49.501: counting visited states...
+dve2lts-sym, 49.502: counting took 0.000 real 0.000 user 0.000 sys
+dve2lts-sym, 49.502: state space has 503 (~5.03e+02) states, 328 BDD nodes

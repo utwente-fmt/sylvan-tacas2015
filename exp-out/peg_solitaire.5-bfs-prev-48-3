@@ -1,0 +1,44 @@
+Initializing Lace with NUMA support.
+dve2lts-sym: Using 48 CPUs
+dve2lts-sym, 0.001: Exploration order is bfs-prev
+dve2lts-sym, 0.001: Saturation strategy is none
+dve2lts-sym, 0.001: Guided search strategy is unguided
+dve2lts-sym, 0.001: Attractor strategy is default
+dve2lts-sym, 0.001: Precompiled divine module initialized
+dve2lts-sym, 0.001: Main process: 0.
+dve2lts-sym, 0.000: opening models/peg_solitaire.5.dve
+dve2lts-sym, 5.714: Regroup specification: gs
+dve2lts-sym, 5.714: Regroup macro Group Safely: gc,gr,cw,rs
+dve2lts-sym, 5.714: Regroup macro Cols: cs,cn
+dve2lts-sym, 5.714: Regroup Column Sort
+dve2lts-sym, 5.714: Regroup Column Nub
+dve2lts-sym, 5.715: Regroup macro Rows: rs,rn
+dve2lts-sym, 5.715: Regroup Row Sort
+dve2lts-sym, 5.715: Regroup Row Nub
+dve2lts-sym, 5.715: Regroup Column sWaps
+dve2lts-sym, 5.715: Regroup Row Sort
+dve2lts-sym, 5.715: Regrouping: 140->1 groups
+dve2lts-sym, 5.716: state vector length is 51; there are 1 groups
+dve2lts-sym, 5.716: Creating a multi-core ListDD domain.
+dve2lts-sym, 5.878: got initial state
+dve2lts-sym, 5.878: level 0 is finished
+dve2lts-sym, 6.577: level 1 is finished
+dve2lts-sym, 7.677: level 2 is finished
+dve2lts-sym, 8.445: level 3 is finished
+dve2lts-sym, 8.749: level 4 is finished
+dve2lts-sym, 8.810: level 5 is finished
+dve2lts-sym, 8.961: level 6 is finished
+dve2lts-sym, 9.221: level 7 is finished
+dve2lts-sym, 9.566: level 8 is finished
+dve2lts-sym, 9.895: level 9 is finished
+dve2lts-sym, 10.112: level 10 is finished
+dve2lts-sym, 10.212: level 11 is finished
+dve2lts-sym, 10.244: level 12 is finished
+dve2lts-sym, 10.252: level 13 is finished
+dve2lts-sym, 10.254: level 14 is finished
+dve2lts-sym, 10.255: level 15 is finished
+dve2lts-sym, 10.256: Exploration took 16 group checks and 16 next state calls
+dve2lts-sym, 10.256: reachability took 4.380 real 181.100 user 28.670 sys
+dve2lts-sym, 10.256: counting visited states...
+dve2lts-sym, 10.261: counting took 0.000 real 0.260 user 0.000 sys
+dve2lts-sym, 10.261: state space has 84191 (~8.42e+04) states, 38108 BDD nodes
